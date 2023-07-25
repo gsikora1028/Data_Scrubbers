@@ -17,7 +17,8 @@ filepaths = [
     '/Users/gsikora/Desktop/GH/5-Data_Metrics/DV/2023/3-Mar-DV2.xlsx',
     '/Users/gsikora/Desktop/GH/5-Data_Metrics/DV/2023/4-Apr-DV2.xlsx',
     '/Users/gsikora/Desktop/GH/5-Data_Metrics/DV/2023/5-May-DV2.xlsx',
-    '/Users/gsikora/Desktop/GH/5-Data_Metrics/DV/2023/6-Jun-DV2.xlsx'
+    '/Users/gsikora/Desktop/GH/5-Data_Metrics/DV/2023/6-Jun-DV2.xlsx',
+    '/Users/gsikora/Desktop/GH/5-Data_Metrics/DV/2023/7-Jul-DV2.xlsx',
 ]
 
 # Read all the Excel files into separate dataframes
