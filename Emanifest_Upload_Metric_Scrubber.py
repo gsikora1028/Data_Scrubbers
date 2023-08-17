@@ -20,7 +20,7 @@ filepaths = [
     '/Users/gsikora/Desktop/GH/5-Data_Metrics/EMAN/2023/5-May-EMAN.xlsx',
     '/Users/gsikora/Desktop/GH/5-Data_Metrics/EMAN/2023/6-Jun-EMAN.xlsx',
     '/Users/gsikora/Desktop/GH/5-Data_Metrics/EMAN/2023/7-Jul-EMAN.xlsx',
-
+    '/Users/gsikora/Desktop/GH/5-Data_Metrics/EMAN/2023/8-Aug-EMAN.xlsx'
 ]
 
 # Read all the Excel files into separate dataframes
